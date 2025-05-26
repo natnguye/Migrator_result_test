@@ -5,7 +5,7 @@ This is a simple Qt5 application that displays a window based on a ui file gener
 
 ## Requirements
 
-- Qt6
+- Qt5
 - C++ compiler
 
 
