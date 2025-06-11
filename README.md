@@ -1,11 +1,3 @@
 
-# Simple Qt5 Application
 
-This is a simple Qt5 application that displays a window containing Qt 4 deprecated componenets that have been migrated to Qt 5.
-
-## Requirements
-
-- Qt5
-- C++ compiler
-
-
+There is no code to migrate in the provided README.md file. The file only contains comments and requirements, but no actual code. Please provide the actual Qt 4.8.5 code that needs to be migrated to Qt 5.15.9.
