@@ -1,11 +1,10 @@
 
+
 # Simple Qt5 Application
 
-This is a simple Qt5 application that displays a window containing Qt 4 deprecated componenets that have been migrated to Qt 5.
+This is a simple Qt5 application that only displays a window with various Qt 5 specific components.
 
 ## Requirements
 
 - Qt5
 - C++ compiler
-
-
